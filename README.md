@@ -7,3 +7,4 @@ Done:
 
 TODO:
 - change CSS to use flexbox instead of grid
+- change box creation to onload
